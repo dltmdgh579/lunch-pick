@@ -1,7 +1,8 @@
 # lunch-pick
 근처 점심메뉴추천
 
-![image](https://github.com/user-attachments/assets/9a2a6245-7d64-495d-a3a8-7cdf814d3100)
+![image](https://github.com/user-attachments/assets/dfdd036a-eceb-4a28-9d65-723c3eee7e74)
+
 
 1. Deploy "front" folder to a deployment site (netlify...)
 2. Deploy server.js to servers that can run node.js (heroku...)
