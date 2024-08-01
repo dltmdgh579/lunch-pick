@@ -1,6 +1,8 @@
 # lunch-pick
 근처 점심메뉴추천
 
+code only ChatGPT
+
 ![image](https://github.com/user-attachments/assets/dfdd036a-eceb-4a28-9d65-723c3eee7e74)
 
 
